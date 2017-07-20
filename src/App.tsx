@@ -9,7 +9,7 @@ export class App extends React.Component<{}, {}>
 {
   public render()
   {
-    const text = "To get started, edit <code>src/App.js</code> and save to reload.";
+    const text = "To get started, edit <code>src/App.js</code> and save to reload. Hot reloading check.";
 
     return (
       <div className="App">
